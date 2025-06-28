@@ -54,6 +54,5 @@ public class A004_Operators {
         --contador;
         ++contador;
         System.out.println(contador);
-
     }
 }
