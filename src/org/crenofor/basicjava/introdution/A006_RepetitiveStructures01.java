@@ -1,4 +1,4 @@
-package org.crenofor.maratonajava.introducao;
+package org.crenofor.basicjava.introdution;
 
 public class A006_RepetitiveStructures01 {
     public static void main(String[] args) {

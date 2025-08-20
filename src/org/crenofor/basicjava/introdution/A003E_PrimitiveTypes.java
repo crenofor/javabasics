@@ -1,4 +1,4 @@
-package org.crenofor.maratonajava.introducao;
+package org.crenofor.basicjava.introdution;
 /*
 Pratica
 

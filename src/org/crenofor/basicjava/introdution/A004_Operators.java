@@ -1,4 +1,4 @@
-package org.crenofor.maratonajava.introducao;
+package org.crenofor.basicjava.introdution;
 
 public class A004_Operators {
     public static void main(String[] args) {
